@@ -16,7 +16,11 @@ public class reversingNumber {
 		}
 		System.out.println(rev);
 		
+				
+				
+		
 	}
+	
 	
 	
 
