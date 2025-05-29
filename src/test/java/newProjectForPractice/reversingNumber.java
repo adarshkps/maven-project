@@ -14,10 +14,8 @@ public class reversingNumber {
 		num1=num1/10;
 
 		}
-		System.out.println(rev);
 		
-				
-				
+		System.out.println(rev);
 		
 	}
 	

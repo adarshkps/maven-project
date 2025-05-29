@@ -18,6 +18,10 @@ public class palindromeOrNot {
 				System.out.println(str.charAt(i));
 			}
 			System.out.print("");
+			if(s1.equals(s2))
+			{
+				System.out.println("palin drome");
+			}
 		}
 		
 		
